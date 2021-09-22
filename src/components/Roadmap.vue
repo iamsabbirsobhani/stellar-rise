@@ -227,6 +227,11 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
+.roadmap {
+  max-width: 1200px;
+  margin: auto;
+}
+
 .ic-section {
   padding-top: 120px;
   padding-bottom: 60px;

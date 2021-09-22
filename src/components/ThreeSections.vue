@@ -1,5 +1,5 @@
 <template>
-  <div class="metaverse">
+  <div class="three-sections">
     <section class="ic-section ic-metaverse" id="ICMetaverse">
       <div class="container">
         <div class="row">
@@ -177,15 +177,46 @@ export default {};
 </script>
 
 <style lang="scss" scoped>
-// .metaverse {
-//     max-width: 1200px;
-//     margin: auto;
-// }
+/* Flow */
 
-// p {
-//     color: white;
-//     max-width: 500px;
-// }
+.ic-f-item-flow {
+    margin-top: 50px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.ic-f-item-flow .ic-f-item {
+    height: 280px;
+    position: relative;
+}
+
+.ic-f-item-flow .ic-f-item img {
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+    bottom: 0;
+    height: calc(100% + 80px);
+}
+
+.ic-f-item-flow-title {
+    color: #fff;
+    font-weight: bold;
+    text-transform: uppercase;
+    margin-bottom: 5px;
+    font-size: 20px;
+}
+
+.ic-f-item-flow-desc {
+    font-size: 16px;
+}
+
+@media (max-width: 1200px) {
+    .ic-f-item-flow-title {
+        white-space: nowrap;
+    }
+}
+
+
 .ic-section {
   padding-top: 120px;
   padding-bottom: 60px;
