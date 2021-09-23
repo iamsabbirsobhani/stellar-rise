@@ -31,7 +31,7 @@
                 <img src="../assets/token/1.png" height="250" />
               </div>
               <h4>$WARE-Currency</h4>
-              <!-- <p>Most items in the game will be payable using tokens.</p> -->
+              <p>Most items in the game will be payable using tokens.</p>
             </div>
           </div>
           <div class="col-xl-3 col-md-6">
@@ -50,11 +50,11 @@
                 <img src="../assets/token/2.png" height="250" />
               </div>
               <h4>$RENA-Governance</h4>
-              <!-- <p>
+              <p>
                   Vote for new features and settings of the game to earn special
                   rewards. Lock F0x tokens for a certain time to gain voting
                   power.
-                </p> -->
+                </p>
             </div>
           </div>
           <div class="col-xl-6 col-md-6">
@@ -70,12 +70,12 @@
               class="mt-4 wow fadeInUp fs-20 mb-4 animated"
               style="visibility: visible"
             >
-              RENA is an ERC-20 governance token for the WARENA Universe. RENA
+              RENA is an ERC-20 governance token for the Stellar Universe. RENA
               holders will be able to claim rewards if they stake their tokens,
               play the game, and participate in key governance votes.
               <br /><br />
               Players will also be able to earn RENA tokens when they play
-              various games within the WARENA Universe and through
+              various games within the Stellar Universe and through
               user-generated content initiatives.
             </p>
           </div>
@@ -116,10 +116,10 @@
                 <img src="../assets/token/4.png" height="250" />
               </div>
               <h4>Play 2 Earn</h4>
-              <!-- <p>
+              <p>
                   Simply playing can also get you tokens via mission and
                   social mining.
-                </p> -->
+                </p>
             </div>
           </div>
           <div class="col-xl-3 col-md-6">
@@ -138,11 +138,11 @@
                 <img src="../assets/token/3.png" height="250" />
               </div>
               <h4>Staking</h4>
-              <!-- <p>
+              <p>
                   Become part of the game by staking tokens into pools.
                   Different pools will yield different returns such as new
                   items, new rbots, or tokens.
-                </p> -->
+                </p>
             </div>
           </div>
         </div>

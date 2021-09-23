@@ -7,7 +7,7 @@
         </h1>
         <p class="mt-4 fs-20 text-center">
           Within our Metaverse, characters from other Universes can meet,
-          interact and join in Warena combats.
+          interact and join in Stellar combats.
         </p>
       </div>
       <div class="row gx-xl-4 gx-md-5 gy-md-3 mt-5">

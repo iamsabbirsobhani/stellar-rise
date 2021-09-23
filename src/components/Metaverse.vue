@@ -21,7 +21,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               Several hundred years later, a Big Bang happens, led the world
-              enter Warena phase 2 - Metaverse. Once again, the planet Warena 0x
+              enter Stellar phase 2 - Metaverse. Once again, the planet Stellar 0x
               is fragmented into pieces. New lands and territories are created.
             </p>
             <p
@@ -29,7 +29,7 @@
               style="visibility: visible"
             >
               Humans, robots, and other alien beings living together in the
-              Warena Metaverse belong to different tribes such as fairies,
+              Stellar Metaverse belong to different tribes such as fairies,
               youkai, demon races, human races, etc. Players can choose to
               inhabit different lands, trade warriors and NFTs, and participate
               in territorial competitions. This era is called the new cosmic
@@ -119,7 +119,7 @@
           </h1>
           <p class="mt-4 fs-20 text-center">
             Within our Metaverse, characters from other Universes can meet,
-            interact and join in Warena combats.
+            interact and join in Stellar combats.
           </p>
         </div>
         <div class="row gx-xl-4 gx-md-5 gy-md-3 mt-5">

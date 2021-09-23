@@ -1,8 +1,8 @@
 <template>
   <q-layout view="lHh Lpr lFf">
-    <Navbar/>
+    <NavbarT/>
     <FrontPage/>
-    <AboutWarena/>
+    <AboutStellar/>
     <!-- <Metaverse/> -->
     <!-- <PersonalChar/> -->
     <!-- <CrossOver/> -->
@@ -23,9 +23,9 @@
 
 
 <script>
-import Navbar from 'src/components/Navbar.vue'
+import NavbarT from 'src/components/NavbarT.vue'
 import FrontPage from 'src/components/FrontPage.vue'
-import AboutWarena from 'src/components/AboutWarena.vue'
+import AboutStellar from 'src/components/AboutStellar.vue'
 // import Metaverse from 'src/components/Metaverse.vue'
 // import PersonalChar from 'src/components/PersonalChar.vue'
 // import CrossOver from 'src/components/CrossOver.vue'
@@ -40,7 +40,7 @@ import Footer from 'src/components/Footer.vue'
 import ThreeSections from 'src/components/ThreeSections.vue'
 
 export default {
-  components: { Navbar, FrontPage, AboutWarena, GameFeatures, TokenEcon, Roadmap, OurTeam, Advisors, Partners, KeepTouch, Footer, ThreeSections },
+  components: { NavbarT, FrontPage, AboutStellar, GameFeatures, TokenEcon, Roadmap, OurTeam, Advisors, Partners, KeepTouch, Footer, ThreeSections },
   setup() {
 
   },

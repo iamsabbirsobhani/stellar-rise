@@ -17,6 +17,7 @@
               text-uppercase text-nowrap text-center text-md-end
               mt-2 mt-md-0
             "
+            id="rights"
           >
             All Rights Reserved
           </div>
@@ -45,5 +46,11 @@ footer {
 
 footer a {
   color: rgba(255, 255, 255, 0.7);
+}
+
+@media (max-width: 576px) {
+  #rights {
+    margin: auto;
+  }
 }
 </style>

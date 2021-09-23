@@ -15,7 +15,7 @@
             </div>
           </div>
           <p class="mt-4">
-            Warena NFT Metaverse game team comes from all over around the world.
+            Stellar NFT Metaverse game team comes from all over around the world.
             <br />They have many years of experience and expertise in the
             working fields.
           </p>

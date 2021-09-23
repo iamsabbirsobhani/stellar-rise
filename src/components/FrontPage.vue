@@ -22,7 +22,7 @@
         <div class="ic-btn-hover"></div>
       </a>
 
-      <a href="#ICAbout" class="ic-mouse-scroll">
+      <a href="#ICAbout" class="ic-mouse-scroll" id="scroll-d">
         <div class="mouse">
           <div class="wheel"></div>
         </div>
@@ -52,8 +52,9 @@ export default {};
 
 <style lang="scss" scoped>
 .front-page {
+  margin-top: 10px;
   width: 100%;
-  height: 110vh;
+  height: 130vh;
   background-image: url(../assets/banner.jpg);
   background-size: cover;
   background-position: top;
@@ -76,11 +77,11 @@ export default {};
 }
 
 .second {
-  a{
+  a {
     display: inline-block;
-    margin: 30px;
+    // margin: 30px;
   }
-  .ic-mouse-scroll{
+  .ic-mouse-scroll {
     display: inline-block;
     margin: 5px;
   }
@@ -450,6 +451,27 @@ span {
 @media (max-width: 576px) {
   .ic-mouse-scroll {
     bottom: -10px;
+  }
+  h1 {
+    max-width: 300px;
+    font-size: 30px !important;
+    margin-top: 10vh !important;
+    line-height: 4rem;
+  }
+  .front-page {
+    flex-direction: column;
+    // justify-content: center;
+    text-align: center;
+  }
+  #scroll-d {
+
+      position: absolute !important;
+      top: 80vh !important;
+
+
+  }
+  .second {
+    margin-top: 35vh;
   }
 }
 </style>

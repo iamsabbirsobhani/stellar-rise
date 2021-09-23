@@ -5,7 +5,7 @@
           <div class="row align-items-end">
             <div class="col-xl-6 col-lg-7 pe-lg-5">
               <div class="ic-section-title">
-                <h1 class="wow fadeInUp animated" style="visibility: visible;">ABOUT WARENA</h1>
+                <h1 class="wow fadeInUp animated" style="visibility: visible;">ABOUT STELLAR</h1>
                 <div class="ic-section-sub-title wow fadeIn ls-06em animated" style="visibility: visible;">
                   <span>#</span>ABOUT
                 </div>
@@ -13,59 +13,12 @@
               <p class="wow fadeInUp mt-4 fs-20 animated" data-wow-delay=".1s" style="visibility: visible; animation-delay: 0.1s;">
                 Play-to-Earn. Metaverse. Personalization. NFT gaming. <br>
                 <br>
-                You have it all in Warena.<br>
+                You have it all in Stellar.<br>
                 <br>
                 Engaging in a thrilling and desperate action-survival gameplay,
                 players can battle, participate in tournaments, collect NFTs,
                 evolve their warriors and much more!
               </p>
-              <!-- <div class="row mt-4">
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Collect NFT</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Battle</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Personalized</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Strategy</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Stake</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Fusion/Breed</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>War Arena</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Real-time</span>
-                  </div>
-                </div>
-                <div class="col-md-4">
-                  <div class="ic-f-item text-center">
-                    <span>Evolve</span>
-                  </div>
-                </div>
-              </div> -->
             </div>
             <div class="text-center col-xl-6 col-lg-5">
               <iframe height="300" src="https://www.youtube.com/embed/hl1tbp5xi7s" style="width: 100%" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
