@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-<section class="ic-section ic-about pb-0 mt-5" id="ICAbout">
+      <section class="ic-section ic-about pb-0 mt-5" id="ICAbout">
         <div class="container">
           <div class="row align-items-end">
             <div class="col-xl-6 col-lg-7 pe-lg-5">

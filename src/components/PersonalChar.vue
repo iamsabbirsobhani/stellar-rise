@@ -15,7 +15,7 @@
           >
             <div class="ic-f-item">
               <img
-                src="../assets/0.png"
+                src="../assets/01.png"
                 alt="Avatar created by Voila AI Artist"
               />
             </div>

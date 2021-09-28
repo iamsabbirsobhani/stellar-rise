@@ -21,8 +21,9 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               Several hundred years later, a Big Bang happens, led the world
-              enter Stellar phase 2 - Metaverse. Once again, the planet Stellar 0x
-              is fragmented into pieces. New lands and territories are created.
+              enter Stellar phase 2 - Metaverse. Once again, the planet Stellar
+              0x is fragmented into pieces. New lands and territories are
+              created.
             </p>
             <p
               class="wow fadeInUp mt-4 fs-20 animated"
@@ -59,7 +60,7 @@
             >
               <div class="ic-f-item">
                 <img
-                  src="../assets/0.png"
+                  src="../assets/01.png"
                   alt="Avatar created by Voila AI Artist"
                 />
               </div>
@@ -180,42 +181,41 @@ export default {};
 /* Flow */
 
 .ic-f-item-flow {
-    margin-top: 50px;
-    padding-left: 10px;
-    padding-right: 10px;
+  margin-top: 50px;
+  padding-left: 10px;
+  padding-right: 10px;
 }
 
 .ic-f-item-flow .ic-f-item {
-    height: 280px;
-    position: relative;
+  height: 280px;
+  position: relative;
 }
 
 .ic-f-item-flow .ic-f-item img {
-    position: absolute;
-    left: 50%;
-    transform: translateX(-50%);
-    bottom: 0;
-    height: calc(100% + 80px);
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+  bottom: 0;
+  height: calc(100% + 80px);
 }
 
 .ic-f-item-flow-title {
-    color: #fff;
-    font-weight: bold;
-    text-transform: uppercase;
-    margin-bottom: 5px;
-    font-size: 20px;
+  color: #fff;
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-bottom: 5px;
+  font-size: 20px;
 }
 
 .ic-f-item-flow-desc {
-    font-size: 16px;
+  font-size: 16px;
 }
 
 @media (max-width: 1200px) {
-    .ic-f-item-flow-title {
-        white-space: nowrap;
-    }
+  .ic-f-item-flow-title {
+    white-space: nowrap;
+  }
 }
-
 
 .ic-section {
   padding-top: 120px;

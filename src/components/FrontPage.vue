@@ -55,7 +55,7 @@ export default {};
   margin-top: 10px;
   width: 100%;
   height: 130vh;
-  background-image: url(../assets/banner.jpg);
+  background-image: url(../assets/banner.png);
   background-size: cover;
   background-position: top;
   padding-top: 50px;
