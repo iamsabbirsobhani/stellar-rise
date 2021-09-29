@@ -60,7 +60,7 @@
             >
               <div class="ic-f-item">
                 <img
-                  src="../assets/01.png"
+                  src="../assets/new/01.png"
                   alt="Avatar created by Voila AI Artist"
                 />
               </div>
@@ -82,7 +82,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               <div class="ic-f-item">
-                <img src="../assets/b1.png" alt="Character template" />
+                <img src="../assets/new/02.png" alt="Character template" />
               </div>
               <div class="ic-f-item-flow-title">Character template</div>
               <div class="ic-f-item-flow-desc">
@@ -98,7 +98,7 @@
             >
               <div class="ic-f-item">
                 <img
-                  src="../assets/b5.png"
+                  src="../assets/new/03.png"
                   alt=" Personalized character NFT Warrior"
                 />
               </div>
@@ -131,7 +131,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               <div class="ic-f-item">
-                <img src="../assets/g2.png" alt="Character template" />
+                <img src="../assets/new/04.png" alt="Character template" />
               </div>
               <div class="ic-f-item-flow-title text-center">CAT GUNNER</div>
             </div>
@@ -144,7 +144,7 @@
             >
               <div class="ic-f-item">
                 <img
-                  src="../assets/g3.png"
+                  src="../assets/new/05.png"
                   alt=" Personalized character NFT Warrior"
                 />
               </div>
@@ -159,7 +159,7 @@
             >
               <div class="ic-f-item">
                 <img
-                  src="../assets/g1.png"
+                  src="../assets/new/06.png"
                   alt="Avatar created by Voila AI Artist"
                   style="height: 250px"
                 />

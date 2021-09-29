@@ -449,6 +449,20 @@ span {
 }
 
 @media (max-width: 576px) {
+  .front-page {
+    margin-top: 10px;
+    width: 100%;
+    height: 130vh;
+    background-image: url(../assets/mobileBannerT.png);
+    background-size: cover;
+    background-position: top;
+    padding-top: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
   .ic-mouse-scroll {
     bottom: -10px;
   }
@@ -464,11 +478,8 @@ span {
     text-align: center;
   }
   #scroll-d {
-
-      position: absolute !important;
-      top: 80vh !important;
-
-
+    position: absolute !important;
+    top: 80vh !important;
   }
   .second {
     margin-top: 35vh;

@@ -28,7 +28,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               <div class="ic-f-item-icon mb-3">
-                <img src="../assets/token/1.png" height="250" />
+                <img src="../assets/new/07.png" height="250" />
               </div>
               <h4>$WARE-Currency</h4>
               <p>Most items in the game will be payable using tokens.</p>
@@ -47,7 +47,7 @@
               style="visibility: visible; animation-delay: 0.2s"
             >
               <div class="ic-f-item-icon mb-3">
-                <img src="../assets/token/2.png" height="250" />
+                <img src="../assets/new/08.png" height="250" />
               </div>
               <h4>$RENA-Governance</h4>
               <p>
@@ -113,7 +113,7 @@
               style="visibility: visible; animation-delay: 0.4s"
             >
               <div class="ic-f-item-icon mb-3">
-                <img src="../assets/token/4.png" height="250" />
+                <img src="../assets/new/09.png" height="250" />
               </div>
               <h4>Play 2 Earn</h4>
               <p>
@@ -135,7 +135,7 @@
               style="visibility: visible; animation-delay: 0.3s"
             >
               <div class="ic-f-item-icon mb-3">
-                <img src="../assets/token/3.png" height="250" />
+                <img src="../assets/new/10.png" height="250" />
               </div>
               <h4>Staking</h4>
               <p>
