@@ -6,9 +6,8 @@
             alt="Warena"
             style="max-height: 260px"
           /> -->
-      <h1 style="margin-top: 40vh; filter: drop-shadow(0 1.75rem 1.75rem #000)">
-        The first personalized and "play to earn" <br />NFT Metaverse game
-      </h1>
+      <h1 style="margin-top: 100vh; filter: drop-shadow(0 1.75rem 1.75rem #000)">
+        The first personalized and "play to earn"</h1>
     </div>
 
     <div class="second">
@@ -52,9 +51,9 @@ export default {};
 
 <style lang="scss" scoped>
 .front-page {
-  margin-top: 10px;
+  // margin-top: 10px;
   width: 100%;
-  height: 130vh;
+  height: 180vh;
   background-image: url(../assets/banner.png);
   background-size: cover;
   background-position: top;
@@ -450,9 +449,9 @@ span {
 
 @media (max-width: 576px) {
   .front-page {
-    margin-top: 10px;
+    // margin-top: 0px;
     width: 100%;
-    height: 130vh;
+    height: 150vh;
     background-image: url(../assets/mobileBannerT.png);
     background-size: cover;
     background-position: top;
@@ -470,6 +469,7 @@ span {
     max-width: 300px;
     font-size: 30px !important;
     margin-top: 10vh !important;
+    margin-bottom: 70vh !important;
     line-height: 4rem;
   }
   .front-page {
@@ -479,10 +479,10 @@ span {
   }
   #scroll-d {
     position: absolute !important;
-    top: 80vh !important;
+    top: 105vh !important;
   }
   .second {
-    margin-top: 35vh;
+    margin-top: 5vh;
   }
 }
 </style>

@@ -91,7 +91,7 @@
                     />
                   </div>
                   <div class="ic-team-name">Hieu Nguyen</div>
-                  <div class="ic-team-title">Game Producer/Developer</div>
+                  <div class="ic-team-title">Game Producer & <br> Developer</div>
                 </div>
               </a>
             </div>

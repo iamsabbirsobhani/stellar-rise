@@ -571,6 +571,10 @@ h6 {
   transform: scaleX(1);
 }
 
+.navbar {
+  padding: 0;
+}
+
 @media (min-width: 1400px) {
   .ic-mx-1400 {
     margin-left: 30px !important;

@@ -82,7 +82,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               <div class="ic-f-item">
-                <img src="../assets/new/02.png" alt="Character template" />
+                <img src="../assets/new/02.png" style="height: 280px;" alt="Character template" />
               </div>
               <div class="ic-f-item-flow-title">Character template</div>
               <div class="ic-f-item-flow-desc">
@@ -100,6 +100,7 @@
                 <img
                   src="../assets/new/03.png"
                   alt=" Personalized character NFT Warrior"
+                  style="height: 280px;"
                 />
               </div>
               <div class="ic-f-item-flow-title">
@@ -131,7 +132,7 @@
               style="visibility: visible; animation-delay: 0.1s"
             >
               <div class="ic-f-item">
-                <img src="../assets/new/04.png" alt="Character template" />
+                <img src="../assets/new/04.png"  alt="Character template" />
               </div>
               <div class="ic-f-item-flow-title text-center">CAT GUNNER</div>
             </div>
@@ -146,6 +147,7 @@
                 <img
                   src="../assets/new/05.png"
                   alt=" Personalized character NFT Warrior"
+                  style="height: 280px;"
                 />
               </div>
               <div class="ic-f-item-flow-title text-center">MY DEFI PET</div>
@@ -161,7 +163,7 @@
                 <img
                   src="../assets/new/06.png"
                   alt="Avatar created by Voila AI Artist"
-                  style="height: 250px"
+                  style="height: 280px;"
                 />
               </div>
               <div class="ic-f-item-flow-title text-center">AXIE INFINITY</div>
