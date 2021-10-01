@@ -116,13 +116,13 @@
       </div>
       <div class="container mt-5 pt-5">
         <div class="ic-section-title text-center">
-          <h1 class="wow fadeInUp animated" style="visibility: visible">
+          <!-- <h1 class="wow fadeInUp animated" style="visibility: visible">
             Cross-over
           </h1>
           <p class="mt-4 fs-20 text-center">
             Within our Metaverse, characters from other Universes can meet,
             interact and join in Stellar combats.
-          </p>
+          </p> -->
         </div>
         <div class="row gx-xl-4 gx-md-5 gy-md-3 mt-5">
           <div class="col-xl-4 col-md-6 mt-5 mt-md-0">

@@ -75,7 +75,7 @@
             "
             id="navbarSupportedContent"
           >
-            <ul
+            <!-- <ul
               class="
                 col-lg-5
                 pe-lg-0
@@ -105,13 +105,19 @@
                   <span>Token</span>
                 </a>
               </li>
-            </ul>
-            <a
-              class="navbar-brand navbar-brand-lg me-0 d-lg-block d-none"
-              href="#home"
-            >
-              <img src="../assets/mobileLogoFinal.png" alt="Warena" />
-            </a>
+            </ul> -->
+            <!-- <div> -->
+            <!-- <a
+                class="navbar-brand navbar-brand-lg me-0 d-lg-block d-none"
+                href="#home"
+              > -->
+            <!-- </a> -->
+            <!-- </div> -->
+            <img
+              :style="imageObj"
+              src="../assets/mobileLogoFinal.png"
+              alt="Warena"
+            />
             <ul
               class="
                 col-lg-5
@@ -170,7 +176,30 @@
 </template>
 
 <script>
-export default {};
+import { ref, onMounted } from "vue";
+export default {
+  setup() {
+    // variable
+    const windWidth = ref(null);
+    const imageObj = ref(null);
+
+    onMounted(() => {
+      windWidth.value = window.innerWidth;
+      if (windWidth.value > 600) {
+        imageObj.value = {
+          display: "block",
+          width: `130px`,
+        };
+      } else if (600 > windWidth.value) {
+        imageObj.value = {
+          display: "none",
+        };
+      }
+    });
+
+    return { imageObj };
+  },
+};
 </script>
 
 <style lang="scss" scoped>
@@ -490,7 +519,7 @@ h6 {
 }
 
 .navbar-brand-lg {
-  position: absolute;
+  position: relative;
   top: 0;
   left: 50%;
   transform: translateX(-50%);
