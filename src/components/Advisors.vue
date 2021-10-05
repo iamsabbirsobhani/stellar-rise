@@ -28,6 +28,7 @@
                     alt="Name"
                   />
                 </div>
+
                 <div class="ic-team-name">Minh Doan</div>
                 <div class="ic-team-title">Blockchain Advisor</div>
                 <div class="ic-team-title2">
